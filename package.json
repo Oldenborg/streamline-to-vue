@@ -1,0 +1,24 @@
+{
+  "name": "streamline-to-vue",
+  "version": "1.0.0",
+  "description": "A utility tool to convert SVGs to Vue components",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oldenborg/streamline-to-vue.git"
+  },
+  "keywords": [
+    "Streamline",
+    "vue",
+    "icons"
+  ],
+  "author": "Henrik Oldenborg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oldenborg/streamline-to-vue/issues"
+  },
+  "homepage": "https://github.com/Oldenborg/streamline-to-vue#readme"
+}
